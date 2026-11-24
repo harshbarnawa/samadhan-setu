@@ -1,5 +1,7 @@
 # Samadhan Setu
 
+<p align="center"><img src="assets/logo.webp" alt="समाधान Setu" width="180"></p>
+
 **A community problem reporting and collaborative solution development platform**
 
 [Live Demo](https://samadhan-setu-lemon.vercel.app) · [Source Code](https://github.com/harshbarnawa/samadhan-setu)
@@ -145,6 +147,9 @@ Images are stored as compressed data URLs inside the JSON records for simplicity
 
 ```text
 samadhan-setu/
+├── assets/              # Original logo and favicon (optimized WebP)
+│   ├── logo.webp
+│   └── favicon.webp
 ├── api/
 │   └── session.js       # Login, session and API routing
 ├── lib/
