@@ -1,0 +1,8 @@
+{
+  "name": "samadhan-setu",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "@vercel/blob": "2.6.1"
+  }
+}

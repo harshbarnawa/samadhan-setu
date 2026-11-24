@@ -1,1 +1,2 @@
-# samadhan-setu
+# Samadhan Setu
+Academic demo with citizen, simulated government admin, and student roles. Shared private Vercel Blob JSON storage with conditional writes; Node server functions enforce roles and transitions. Local Naive Bayes classifier. Demo accounts are shared by role; do not enter real personal information. Configure SESSION_SECRET, CITIZEN_PASSWORD, ADMIN_PASSWORD, STUDENT_PASSWORD and BLOB_READ_WRITE_TOKEN in Vercel. Refresh manually or allow visible dashboards to poll every 12 seconds.
