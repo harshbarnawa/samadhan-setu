@@ -109,7 +109,7 @@ The classifier uses a small built-in training dataset: three example text snippe
 5. Map the result to a suggested department and engineering expertise using lookup tables.
 6. Estimate urgency separately using simple safety-related keywords.
 
-Example input: `Road potholes are causing accidents in our village.`
+Example input: `Road potholes caused an accident in our village.`
 
 | Output | Example |
 | --- | --- |
